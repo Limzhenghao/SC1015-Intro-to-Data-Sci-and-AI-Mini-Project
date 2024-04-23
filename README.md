@@ -8,7 +8,7 @@ Contributors
 ---
 - @Limzhenghao - One-Hot Encoding, Exploratory Data Analysis, Data Visualisation, Data Cleaning
 - @Liuyzaz - 
-- @JamesMega12 -
+- @JamesMega12 - Big Mac price prediction, Linear Regression Model, Data Visualisation, Data Cleaning
 
 Problem Definition
 ---
