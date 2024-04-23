@@ -31,6 +31,8 @@ What did we learn from this project?
 - Box plots for categorical and continuous variables
 - Residual plots
 - Prediction using past values of variables
+- Collaboration using Github
+- Git functions
 
 References
 ---
