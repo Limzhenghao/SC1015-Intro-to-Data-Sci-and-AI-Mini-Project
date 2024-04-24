@@ -7,7 +7,7 @@ This is a mini project for the SC1015 (Introduction to Data Science and Artifici
 Contributors
 ---
 - @Limzhenghao - One-Hot Encoding, Exploratory Data Analysis, Data Visualisation, Data Cleaning
-- @Liuyzaz - 
+- @Liuyzaz - Data Visualisation, Exploratory Data Analysis, Linear Regression Model, Data Cleaning, Slides.
 - @JamesMega12 - Big Mac price prediction, Linear Regression Model, Data Visualisation, Data Cleaning
 
 Problem Definition
